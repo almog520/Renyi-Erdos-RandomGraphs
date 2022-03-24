@@ -3,7 +3,7 @@
 
 #########################################################################
 * Prior to running the program please change the build configuration to Release and 
-not Debug, in order to speed up the execution of the program. *
+not Debug, in order to speed up the execution of the program. * </br>
 #########################################################################
 
 Program Goal:
